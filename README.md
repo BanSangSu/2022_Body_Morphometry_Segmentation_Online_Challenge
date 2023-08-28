@@ -1,0 +1,2 @@
+# 2022_Body_Morphometry_Segmentation_Online_Challenge
+MOAI 2022 Body Morphometry AI Segmentation Online Challenge
